@@ -1,10 +1,9 @@
-		<?xml version="1.0" encoding="UTF-8"?>
-	<widget xmlns = "http://www.w3.org/ns/widgets"
-		xmlns:gap = "http://phonegap.com/ns/1.0"
-		xmlns:android = "http://schemas.android.com/apk/res/android"
-		id        = "com.phonegap.example"
-		versionCode="0.1.1"
-		version   = "1.0.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+xmlns:gap   = "http://phonegap.com/ns/1.0"
+id          = "com.phonegap.example"
+versionCode = "10"
+version     = "1.0.0" >
 		<name>Rede Piemonte Online</name>
 		<description>
             APP Piemonte
@@ -98,5 +97,5 @@
             <splash src="Icons\1280x1920.png" qualifier="" />
             <splash src="Icons\1920x1280.png" qualifier="" />
 		</platform>
-		 <icon src="icon.png" />
+		 <icon src="Icons\72x72.png" />
 		</widget>
