@@ -61,6 +61,6 @@
 		<splash src="Icons\1280x1920.png" qualifier="" />
 		<splash src="Icons\1920x1280.png" qualifier="" />
 </platform>
-<icon src="icon.png" />
+<icon src="Icons\72x72.png" />
 
 </widget>
