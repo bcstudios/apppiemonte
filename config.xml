@@ -42,6 +42,8 @@ version     = "1.0.0" >
 		<preference name="KeyboardShrinksView " value="true" />
 		<preference name="HideKeyboardFormAccessoryBar" value="true" />
 		<preference name="SuppressesIncrementalRendering" value="false" />
+		<preference name="windows-appx-target" value="uap" />
+		<preference name="windows-arch" value="x64" />
 		<preference name="windows-identity-name" value="" />
 		<preference name="android-minSdkVersion" value="11" />
 		<preference name="android-targetSdkVersion" value="0" />
