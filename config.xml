@@ -69,7 +69,7 @@ version     = "1.0.0" >
 		<splash src="Icons\240-x-320.png" qualifier="" />
 		<splash src="Icons\320x240.png" qualifier="" />
 		<splash src="Icons\320x480.png" qualifier="" />
-		<splash src="file://C:\Users\Bruno Cardoso\Documents\Aplicativos\TestePiemonte\www\Icons\480x320.png" qualifier="" />
+		<splash src="Icons\480x320.png" qualifier="" />
 		<splash src="Icons\480x800.png" qualifier="" />
 		<splash src="Icons\800x480.png" qualifier="" />
 		<splash src="Icons\720x1280.png" qualifier="" />
@@ -87,7 +87,7 @@ version     = "1.0.0" >
             <splash src="Icons\240-x-320.png" qualifier="" />
             <splash src="Icons\320x240.png" qualifier="" />
             <splash src="Icons\320x480.png" qualifier="" />
-            <splash src="file://C:\Users\Bruno Cardoso\Documents\Aplicativos\TestePiemonte\www\Icons\480x320.png" qualifier="" />
+            <splash src="Icons\480x320.png" qualifier="" />
             <splash src="Icons\480x800.png" qualifier="" />
             <splash src="Icons\800x480.png" qualifier="" />
             <splash src="Icons\720x1280.png" qualifier="" />
