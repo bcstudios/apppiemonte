@@ -43,7 +43,7 @@
 		<splash src="Icons\1280x1920.png" qualifier="" />
 		<splash src="Icons\1920x1280.png" qualifier="" />
 </platform>
-<platform name="winphone">
+<platform name="wp10">
         <icon src="Icons\36x36.png" qualifier="ldpi" />
 		<icon src="Icons\48x48.png" qualifier="mdpi" />
 		<icon src="Icons\72x72.png" qualifier="hdpi" />
