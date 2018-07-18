@@ -1,0 +1,144 @@
+
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+clear {
+    clear: both;
+}
+
+.btn {
+    display: block;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #595959;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+body {
+    -webkit-text-size-adjust: none;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    font-size: .9em;
+}
+
+.topo {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    background-color: #303030;
+    z-index: 999999;
+}
+
+#check {
+    float: left;
+    display: none;
+}
+
+#icone {
+    float: left;
+    height: 60px;
+    cursor: pointer;
+}
+
+#icone:hover {
+    background-color: #595959;
+}
+
+#icone img {
+    height: 60px;
+    width: 60px;
+}
+
+#barra-menu {
+    top: 60px;
+    background-color: #303030;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    transition: left 0.2s linear;
+    left: -100%;
+}
+
+#barra-menu nav {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+#barra-menu nav a {
+    text-decoration: none;
+}
+
+.link {
+    height: 10%;
+    background-color: #4f4f4f;
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 13pt;
+    color: #f1f1f1;
+}
+.link:hover {
+    background-color: #636363;
+}
+
+.perfil {
+    height: 23%;
+    background: url(img/Som%20BG.png);
+    background-size: 100% auto;
+}
+
+.perfil img {
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link img {
+    height: 100%;
+    float: left;
+}
+
+.link p {
+    text-align: center;
+    padding: 6.1%;
+}
+
+.topo p{
+    text-align: center;
+    color: #f1f1f1;
+    font-size: 15pt;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
